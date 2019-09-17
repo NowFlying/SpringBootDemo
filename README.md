@@ -8,3 +8,10 @@
 ### 2. SpringBoot-ecache
 
 ​	spring中的缓存
+
+### 3. SpringBoot-admin-simple
+
+​	单个客户端注册的admin
+
+
+
