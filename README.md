@@ -13,5 +13,6 @@
 
 ​	单个客户端注册的admin
 
+### 4. SpringBoot-statemachine
 
-
+​	状态机的例子2.2.0.RELEASE
