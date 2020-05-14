@@ -15,4 +15,8 @@
 
 ### 4. SpringBoot-statemachine
 
-​	状态机的例子2.2.0.RELEASE
+​	状态机的例子2.2.0.RELEAS
+
+### 5. SpringBoot-stateless4j
+
+​	状态机的例子stateless4j（2.5.0）
