@@ -21,7 +21,7 @@
 		<lombok.version>1.16.14</lombok.version>
 		<httpclient.version>4.5.6</httpclient.version>
 		<jjwt.version>0.6.0</jjwt.version>
-		<fastJson.version>1.2.49</fastJson.version>
+		<fastJson.version>1.2.83</fastJson.version>
 	</properties>
 
 	<dependencies>
